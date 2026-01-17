@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This mini project analyzes **2015 flight delay and cancellation data** using **Power BI**.  
-The goal is to identify **delay trends, major delay causes, high-delay airports**, and overall flight performance through an **interactive 4-page dashboard**.
+The goal is to identify **delay trends, major delay causes, high-delay airports**,Cancellation trend and overall flight performance through an **interactive 4-page dashboard**.
 
 ---
 
