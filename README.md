@@ -45,5 +45,3 @@ The dataset consists of three tables:
 - Established relationships between Flights, Airlines, and Airports tables
 
 ---
-
-## 📈 Dashboard Pages (4 Pages)
